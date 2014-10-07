@@ -1,0 +1,15 @@
+{
+	"name": "cubish",
+	"description": "Game engine",
+	"version": "0.0.0",
+	"author": "CoderPuppy",
+
+	"dependencies": {
+		"deep-equal": "^0.2.1",
+		"clone": "^0.1.17"
+	},
+
+	"scripts": {
+		"dev": "node --harmony test"
+	}
+}
